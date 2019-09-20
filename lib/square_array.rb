@@ -17,4 +17,4 @@ def square_array(numbers)
   n.times { |i| empty_array << numbers[i] **2 }
    
   end
- p empty_array
+ 
